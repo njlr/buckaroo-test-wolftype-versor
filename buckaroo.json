@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-wolftype-versor",
+  "dependencies": {
+    "wolftype/versor": "0.0.1",
+    "google/gtest": "1.8.0"
+  }
+}
